@@ -1,0 +1,8 @@
+{
+  "name": "fiestaclick/bot",
+  "description": "Webhook para WhatsApp Business",
+  "require": {
+    "php": ">=8.0",
+    "ext-curl": "*"
+  }
+}
